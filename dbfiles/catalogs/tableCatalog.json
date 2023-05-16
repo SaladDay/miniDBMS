@@ -1,0 +1,1 @@
+{"stu": {"columns": {"id": {"isUnique": true, "type": "int", "charLen": 0}, "name": {"isUnique": true, "type": "char", "charLen": 16}, "gpa": {"isUnique": false, "type": "float", "charLen": 0}, "age": {"isUnique": false, "type": "int", "charLen": 0}}, "primaryKey": "id"}}
